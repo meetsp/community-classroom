@@ -1,1 +1,4 @@
 hello github
+
+
+1. git clone https://github.com/meetsp/community-classroom.git
